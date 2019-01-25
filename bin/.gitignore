@@ -1,8 +1,1 @@
-/bfs_web_crawler/
-/breath_first_search/
-/depth_first_search/
-/dfs_cycle_detection/
-/dfs_maze_solver/
-/dijkstra_shortest_path/
-/topologic_order/
-/bellman_ford/
+/kruskal/
