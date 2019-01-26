@@ -1,10 +1,10 @@
 package kruskal;
 
 public class Vertex {
-	
+
 	private String name;
-	private Node node; //DistJointSet
-	
+	private Node node; // DistJointSet
+
 	public Vertex(String name) {
 		this.name = name;
 	}
@@ -24,7 +24,7 @@ public class Vertex {
 	public void setNode(Node node) {
 		this.node = node;
 	}
-	
+
 	@Override
 	public String toString() {
 		return this.name;
