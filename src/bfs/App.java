@@ -1,4 +1,4 @@
-package breath_first_search;
+package bfs;
 
 public class App {
 

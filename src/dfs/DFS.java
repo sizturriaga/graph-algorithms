@@ -1,4 +1,4 @@
-package depth_first_search;
+package dfs;
 
 import java.util.List;
 import java.util.Stack;
