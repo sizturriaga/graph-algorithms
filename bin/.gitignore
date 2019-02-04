@@ -1,2 +1,12 @@
 /prim_lazy/
 /prim_eager/
+/kosaraju/
+/tarjan/
+/scc_kosaraju/
+/scc_tarjan/
+/st_kruskal/
+/st_prim_lazy/
+/st_prim_eager/
+/sp_dijkstra/
+/sp_bellman_ford/
+/dfs_topologic_order/
